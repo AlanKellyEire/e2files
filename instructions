@@ -1,0 +1,3 @@
+file goes into /etc/default/
+restart drop bear afterwards
+/etc/init.d/dropbear restart

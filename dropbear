@@ -1,0 +1,9 @@
+#no pw for root
+#DROPBEAR_EXTRA_ARGS="-g"
+#no pw for for anyone
+#DROPBEAR_EXTRA_ARGS="-s"
+#show banner
+#DROPBEAR_EXTRA_ARGS="-b"
+#no root login
+#DROPBEAR_EXTRA-ARGS="-w"
+DROPBEAR_EXTRA_ARGS="-s -g -w"
